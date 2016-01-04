@@ -28,7 +28,7 @@ This is the version control software that we will use. Installing git will allow
 ```
 brew install git
 ```
-and press enter. Now wait for Homebrew to install git. 
+into your Terminal and press enter. Now, wait for Homebrew to install git. 
 
 ###Installing vrecord###
 Vrecord is open-source video capture software for archivists and conservators. First type
