@@ -1,4 +1,4 @@
-#Preparing for the Media^Alps Workshop on Mac OS X#
+#Preparing for the Media^Alps Workshop with Mac OS X#
 
 ##Installing Necessary Software##
 
