@@ -10,7 +10,7 @@ xcode-select --install
 ```
 Now press enter. This should start the installation process for the Xcode command line tools. Alternatively, you can download the complete Xcode package from the Mac App Store. Just search for Xcode.
 
-3. Install Homebrew. This is a package manager that will allow you to easily install all of the software necessary for this workshop. To install Homebrew paste this command into your Terminal and press enter to run it. 
+3. Install Homebrew. This is a package manager that will allow you to easily install all of the software necessary for this workshop. To install Homebrew, copy and paste the command below into your Terminal and press enter to run it. 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
@@ -33,8 +33,7 @@ And press enter. Now type
 ```
 brew install vrecord
 ```
-and press enter. This will install vrecord as well as video transcoding software called ffmpeg. We will discuss vrecord and ffmpeg during the workshop.  
-You may be interested in checking out the vrecord project at https://github.com/amiaopensource/vrecord
+and press enter. This will install vrecord as well as video transcoding software called ffmpeg. We will discuss vrecord and ffmpeg during the workshop. You may be interested in checking out the vrecord project at https://github.com/amiaopensource/vrecord
 
 ##Questions and Issues##
 If you have any questions or issues with the installation instructors. Please contact the Media^Alps organizers.  
