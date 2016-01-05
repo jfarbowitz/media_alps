@@ -8,7 +8,7 @@ Open up a Terminal on your Mac. You can find Terminal within the Applications fo
 
 ![Mac OS Terminal](http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-300x262.png)
  
-Install Xcode command-line developer tools. At the Terminal prompt, which ends with a $, type
+Install Xcode command-line developer tools. At the Terminal prompt, which ends with a `$`, type
 ```
 xcode-select --install
 ``` 
