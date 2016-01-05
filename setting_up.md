@@ -76,7 +76,7 @@ git config --global credential.helper osxkeychain
 ```
 to set it up. Time to kick up your heels, you're ready for the workshop!
 
-If you did not see the message, visit https://help.github.com/articles/caching-your-github-password-in-git/ and follow the installation instructions.
+If you did not see the message, visit https://help.github.com/articles/caching-your-github-password-in-git/ and follow the instructions to install and set up the Mac OS credential helper.
 
 ##Questions and Issues##
-If you have any questions or issues with the installation instructors please contact the Media^Alps organizers at media.alps2016@gmail.com  
+If you have any questions or issues with the installation instructions please contact the Media^Alps organizers at media.alps2016@gmail.com  
