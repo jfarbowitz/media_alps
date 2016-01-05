@@ -4,9 +4,11 @@
 
 **Please note, Mac OS 10.10 (Yosemite) or higher is recommended. Installing Xcode may be difficult with earlier versions of Mac OS. If possible, please update your operating system to at least OS 10.10.**
 
-1. Open up a Terminal on your Mac. You can find Terminal within the Applications folder on your computer. It may be within a folder called "Utilities" You can also use Spotlight (by pressing ⌘ + spacebar) to search for "Terminal."
+Open up a Terminal on your Mac. You can find Terminal within the Applications folder on your computer. It may be within a folder called "Utilities" You can also use Spotlight (by pressing ⌘ + spacebar) to search for "Terminal." The Terminal icon looks like this:
+
+![Mac OS Terminal](http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-300x262.png)
  
-2. Install Xcode command-line developer tools. At the Terminal prompt, which ends with a $, type
+Install Xcode command-line developer tools. At the Terminal prompt, which ends with a $, type
 ```
 xcode-select --install
 ``` 
