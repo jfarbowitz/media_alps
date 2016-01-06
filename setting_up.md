@@ -78,5 +78,15 @@ to set it up. Time to kick up your heels, you're ready for the workshop!
 
 If you did not see the message, visit https://help.github.com/articles/caching-your-github-password-in-git/ and follow the instructions to install and set up the Mac OS credential helper.
 
+##Optional: Downloading a Text Editor##
+There are several great text editors available for Mac OS X for free. These will help you when working with code, html, xml, or MarkDown files. Here are some options:
+
+Text Mate -- http://macromates.com/
+
+Text Wrangler -- http://www.barebones.com/products/textwrangler/
+
+Sublime Text -- http://www.sublimetext.com/2 (technically this program isn't free, but has an unlimited evaluation period, if you like it support the developers by paying for license)
+
+
 ##Questions and Issues##
 If you have any questions or issues with the installation instructions please contact the Media^Alps organizers at media.alps2016@gmail.com  
