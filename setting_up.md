@@ -82,7 +82,9 @@ If you did not see the message, visit https://help.github.com/articles/caching-y
 There are several great text editors available for Mac OS X for free. These will help you when working with code, html, xml, or MarkDown files. Here are some options:
 
 Text Mate -- http://macromates.com/
+
 Text Wrangler -- http://www.barebones.com/products/textwrangler/
+
 Sublime Text -- http://www.sublimetext.com/2 (technically this program isn't free, but has an unlimited evaluation period, if you like it support the developers by paying for license)
 
 
