@@ -9,3 +9,4 @@ Command | Flags | Arguments | What it Does
  | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
  | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
 `$ man` | None | <command> | Display manual page for a given command
+`$ grep`| None | `<"what you want to search"> for example <"2015">` | searching for a term
