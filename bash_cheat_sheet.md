@@ -9,3 +9,6 @@ Command | Flags | Arguments | What it Does
  | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
  | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
 `$ man` | None | <command> | Display manual page for a given command
+`$ mv` | None | `<source file> <destination>`| Moves a file from its source to its destination 
+ | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
+ | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
