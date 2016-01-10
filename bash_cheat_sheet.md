@@ -9,3 +9,5 @@ Command | Flags | Arguments | What it Does
  | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
  | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
 `$ man` | None | <command> | Display manual page for a given command
+ `>` | None | before the redirect <command> after the redirect <output file> | "mean": redirects output to a file and overwrites content if the file is already existing
+`|` | None | None | takes the output of one command and puts it into another
