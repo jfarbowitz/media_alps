@@ -9,3 +9,4 @@ Command | Flags | Arguments | What it Does
  | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
  | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
 `$ man` | None | <command> | Display manual page for a given command
+`$ pwd` | None | `<source file>` | Writes the full pathname of the current working directory to the standard output
