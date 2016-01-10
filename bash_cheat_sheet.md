@@ -9,3 +9,5 @@ Command | Flags | Arguments | What it Does
  | `-i` | `<source file> <destination>` | Interactive mode (to prevent unwanted overwriting)
  | `-R` | `<source file> <destination>` | Recursive mode: includes all folders and files
 `$ man` | None | <command> | Display manual page for a given command
+`>>`| None | `before the redirect should be another command, after the redirect <destination file>` | Creates a new file if it doesn't exist yet, if the file exists it adds the message 
+	
